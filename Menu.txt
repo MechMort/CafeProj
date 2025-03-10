@@ -1,0 +1,19 @@
+#README
+#FORMATTING RULES EACH ITEM SHOULD BE AS FOLLOWS; ITEMNAME:ITEM PRICE IN PENNIES
+---DRINKS---;
+Coffee:100;
+Jelly SODA : 300;
+Jelly SODA : 300;
+Jelly SODA : 300;
+Jelly SODA : 300;
+Jelly SODA : 300;
+Tea:200;
+Cola:360;
+---SNACKS---;
+TeaCake:150;
+Jelly Cats : 300;
+Jelly Cats : 300;
+Jelly Cats : 300;
+Jelly Cats : 300;
+Jelly Cats : 300;
+
