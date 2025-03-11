@@ -1,1 +1,1 @@
-[(['Coffee 3', 'Cola 2'], 1020)]
+['["([\'Coffee 3\', \'Cola 2\'], 1020)ID:67d275d1a9caf67992d733110b51aeab"]:Order Status = Created;\n', "(['Coffee 3', 'Cola 2'], 1020)ID:ff306e8e8b336cc6f051cb415423270d"]:Order Status = Created;
